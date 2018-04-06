@@ -32,8 +32,11 @@ div.legendCanvas{
     height: 85vh;
 }
 
+
 p {
     display: inline-block;
+    font-size: 16px;
+
 }
 
 #images{
@@ -137,8 +140,9 @@ div.gm-style-iw blockquote {
 
 /* SIDEPANEL */
 .sidepanel {
-    margin: 15px;
-    float: right;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 #popcorn-container {
@@ -149,4 +153,3 @@ div.gm-style-iw blockquote {
     background-color: #F4F4F4;
     padding: 10px;
 }
-
